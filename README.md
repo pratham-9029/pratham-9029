@@ -19,7 +19,7 @@
 
   <br/>
 
-```
+```bash
 root@github:~# whoami
 
 # SYSTEM INFO FETCH
@@ -32,7 +32,7 @@ Uptime      : Forever
 Current_Loc : 127.0.0.1
 ```
 
-```
+```bash
 user@github:~/skills$ ls -la
 Accessing arsenal...
 ```
@@ -41,7 +41,7 @@ Accessing arsenal...
 
 <img src="https://img.shields.io/badge/Linux-FCC624%3Fstyle%3Dflat-square%26logo%3Dlinux%26logoColor%3Dblack" /> <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25%3Fstyle%3Dflat-square%26logo%3Dgnu-bash%26logoColor%3Dwhite" /> <img src="https://img.shields.io/badge/Git-F05032%3Fstyle%3Dflat-square%26logo%3Dgit%26logoColor%3Dwhite" /> </p>
 
-```
+```bash
 user@github:~/activity$ ./show_stats.sh
 ```
 
