@@ -9,10 +9,10 @@
 
   <br/>
 
-  <img src="https://img.shields.io/badge/KALI-LINUX-white?style=for-the-badge&logo=kalilinux&logoColor=white&color=557CF2" />
+  <img src="https://img.shields.io/badge/KALI-ENTHUSIAST-white?style=for-the-badge&logo=kalilinux&logoColor=white&color=557CF2" />
 </div>
 <br/>
-  <img src="https://img.shields.io/badge/Root-Access_Granted-red?style=for-the-badge" />&nbsp;&nbsp;&nbsp;
+  <!-- <img src="https://img.shields.io/badge/Root-Access_Granted-red?style=for-the-badge" />&nbsp;&nbsp;&nbsp; -->
   <img src="https://img.shields.io/badge/Status-Online-green?style=for-the-badge&logo=conekta&logoColor=white" />
 
   </div>
